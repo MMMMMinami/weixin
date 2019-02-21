@@ -1,0 +1,356 @@
+[
+	{
+		"69a3693ec7774b92b8bca616fc60cfe5": {
+			"code": 1000000,
+			"msg": "成功",
+			"data": {
+				"goodsId": "69a3693ec7774b92b8bca616fc60cfe5",
+				"goodsTitle": "富光荣耀系列不锈钢真空带滤网保温杯",
+				"subTitle": "480ML  圆筒礼盒装茶杯 男女商务车载带滤网，高效保温，长效保冷，360°不漏水，微磨砂质感金属漆，不易留下印记",
+				"des": {
+					"code": 1000000,
+					"msg": "成功",
+					"data": "<p><img src=\"https://img13.360buyimg.com/cms/jfs/t1/4013/4/5686/42586/5ba05d02E257228ff/63e540465dbab967.jpg\"/> <img src=\"https://img13.360buyimg.com/cms/jfs/t24706/57/825184202/266431/5bde97b7/5b7cfd1eNe62f0149.jpg\"/> <img src=\"https://img14.360buyimg.com/cms/jfs/t24244/243/2354481611/242115/aa9aee98/5b7cfd1dN6317146e.jpg\"/> <img src=\"https://img14.360buyimg.com/cms/jfs/t24310/204/2373423774/244571/f235828f/5b7cfd1dN763b4ade.jpg\"/> <img src=\"https://img12.360buyimg.com/cms/jfs/t24379/221/2359293365/172199/d9f0bf34/5b7cfd1dN54793244.jpg\"/> <img src=\"https://img11.360buyimg.com/cms/jfs/t24433/221/2325736764/190782/4e91757/5b7cfd1dN17f14940.jpg\"/> <img src=\"https://img10.360buyimg.com/imgzone/jfs/t1/369/35/1526/455258/5b938445E999b32d1/97f1dfd5a0719838.jpg\"/> <img src=\"https://img12.360buyimg.com/cms/jfs/t23476/224/2337535666/186471/e87babf3/5b7cfd1dN0926e432.jpg\"/> <img src=\"https://img14.360buyimg.com/cms/jfs/t22495/248/2372811431/68795/7649c9c9/5b7cfd1bN6a63d645.jpg\"/> <img src=\"https://img13.360buyimg.com/cms/jfs/t24313/244/2356604321/129071/acd67a80/5b7cfd1cN96efd091.jpg\"/> <img src=\"https://img13.360buyimg.com/cms/jfs/t24355/201/2376312847/155532/f77c497f/5b7cfd1cN1d6d872e.jpg\"/> <img src=\"https://img14.360buyimg.com/cms/jfs/t24037/294/2372227412/150160/bfc5f9e2/5b7cfd1cN2d5d044d.jpg\"/> <img src=\"https://img11.360buyimg.com/cms/jfs/t24784/178/817476778/134867/a181853c/5b7cfd1aN3a5cf3c2.jpg\"/> <img src=\"https://img10.360buyimg.com/cms/jfs/t23218/244/2379162868/191393/519e4036/5b7cfd1dN41ae89f2.jpg\"/> <img src=\"https://img14.360buyimg.com/cms/jfs/t24328/181/2333815827/161399/4d87688f/5b7cfd1dN5fb27727.jpg\"/> <img src=\"https://img11.360buyimg.com/cms/jfs/t22930/302/2353416527/152239/63b3b41b/5b7cfd1cN258581a5.jpg\"/> <img src=\"https://img12.360buyimg.com/cms/jfs/t24742/45/798232400/107257/e4611ed3/5b7cfd1cN70af3a01.jpg\"/> <img src=\"https://img10.360buyimg.com/cms/jfs/t22453/280/2344718001/133253/86741178/5b7cfd1cNabeba4dd.jpg\"/> <img src=\"https://img10.360buyimg.com/imgzone/jfs/t23155/260/209168853/229756/bbe1e3a9/5b28caa4N52adaaed.jpg\"/> <img src=\"https://img10.360buyimg.com/imgzone/jfs/t24205/297/220509803/88573/230b8060/5b28caa4N7e6a3da9.jpg\"/><img src=\"https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goodsimage_edit_img/cf7b1b3f67634c4d8c5ab2a75e5e76ee.jpg\" title=\"详情底部说明.jpg\" alt=\"详情底部说明.jpg\"/></p>"
+				},
+				"goodsImages": [
+					{
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/f85c9097d32148cf95445e60da9aab35.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}, {
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/d7511900b32043a091c61fc50b376268.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}, {
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/ab6b900fd534403bb47eaee77c76292b.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}, {
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/4e1b9e28e5554fa4bd10929f8b7be3e7.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}, {
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/6aa1c532bddb49e59822e771193c2d7c.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}
+				],
+				"wzGoodsSpec": {
+					"skuId": 5649656,
+					"saleState": 1,
+					"is7ToReturn": 1,
+					"isAreaRestrict": null,
+					"stockStateId": null,
+					"serviceList": null,
+					"id": "aa18a461eb084deaa87b2fde4a239b03",
+					"spec": "本色",
+					"price": "69.00",
+					"jdPrice": 79.0,
+					"status": 0
+				},
+				"userAddress": null,
+				"userAllLimit": null,
+				"orderTimeout": null,
+				"maxPrice": 69.00,
+				"minPrice": 69.00,
+				"collectStatus": 2
+			}
+		}
+	}, {
+		"1846675a04d24ac99fe2ca704946dd63": {
+			"code": 1000000,
+			"msg": "成功",
+			"data": {
+				"goodsId": "1846675a04d24ac99fe2ca704946dd63",
+				"goodsTitle": "李施德林（Listerine）牙龈护理便携漱口水",
+				"subTitle": "口气清新深层清洁 500ML*3，刷牙+涑口=健康好口腔",
+				"des": {
+					"code": 1000000,
+					"msg": "成功",
+					"data": "<p><img src=\"https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goodsimage_edit_img/47b91612cac34c80adb9aa7062e6cb23.jpg\" title=\"1.jpg\" alt=\"1.jpg\"/><img src=\"https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goodsimage_edit_img/7875e4e3565b4f7db97387c2fb4068a1.jpg\" title=\"1.jpg\" alt=\"1.jpg\"/><img src=\"https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goodsimage_edit_img/5b2b58fa9c3b433dac6e07d5cbdad72c.jpg\" title=\"2.jpg\" alt=\"2.jpg\"/><img src=\"https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goodsimage_edit_img/01d7ff8658e1417ab91ef7d82b7c4208.jpg\" title=\"5b347686N040e3b35.jpg\" alt=\"5b347686N040e3b35.jpg\"/><img src=\"https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goodsimage_edit_img/f3c64cad0f7b49b3bc0b54c4b45a3997.jpg\" title=\"1.jpg\" alt=\"1.jpg\"/><img src=\"https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goodsimage_edit_img/0ac3b0c0b6e04f56b0d2589c34e9250d.jpg\" title=\"2.jpg\" alt=\"2.jpg\"/><img src=\"https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goodsimage_edit_img/4405ad3305014e21a08d916e9448e309.jpg\" title=\"3.jpg\" alt=\"3.jpg\"/><img src=\"https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goodsimage_edit_img/29cdbffc0864401c9de86e5233ccc288.jpg\" title=\"4.jpg\" alt=\"4.jpg\"/><img src=\"https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goodsimage_edit_img/2abf24e536584f6986550574bcebe8d5.jpg\" title=\"暂时.jpg\" alt=\"暂时.jpg\"/></p>"
+				},
+				"goodsImages": [
+					{
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/5406f499af92420fb2e1027eed4492cc.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}, {
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/e46484df1dc74d3cb60d218601ae7d28.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}, {
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/06a2bde96eae4cd98c9e6898029fb12c.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}, {
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/0832f5f4004c4e2a8152d041da05f567.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}, {
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/1bf42d7ed7ab433586c801e902c523f5.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}
+				],
+				"wzGoodsSpec": {
+					"skuId": 525707,
+					"saleState": 1,
+					"is7ToReturn": 1,
+					"isAreaRestrict": null,
+					"stockStateId": null,
+					"serviceList": null,
+					"id": "56c0273eea7e4b76a7cf89a1d4eaba00",
+					"spec": "冰蓝口味*3",
+					"price": "65.90",
+					"jdPrice": 75.9,
+					"status": 0
+				},
+				"userAddress": null,
+				"userAllLimit": null,
+				"orderTimeout": null,
+				"maxPrice": 112.60,
+				"minPrice": 65.90,
+				"collectStatus": 2
+			}
+		}
+	}, {
+		"7a8eef879eba46f9b9e44932414bf3a9": {
+			"code": 1000000,
+			"msg": "成功",
+			"data": {
+				"goodsId": "7a8eef879eba46f9b9e44932414bf3a9",
+				"goodsTitle": "Apple iPad 平板电脑 9.7英寸",
+				"subTitle": "9.7 英寸 Retina屏，百万款专属app，获得AppleCare+全方位服务计划，原厂延保售后无忧",
+				"des": {
+					"code": 1000000,
+					"msg": "成功",
+					"data": "<p>温馨提示：该商品不支持7天无理由退换货~</p><p><img src=\"https://img10.360buyimg.com/imgzone/jfs/t15205/311/2412211209/45550/97656b10/5a9f76c3N280e856b.jpg\"/><img src=\"http://img13.360buyimg.com/cms/jfs/t17161/308/291342769/140883/a5db93a0/5a6881b4N0b71b8ff.jpg\"/><img src=\"http://img30.360buyimg.com/cms/jfs/t14596/160/2080001208/273825/8ea8ec87/5a687efbN14d7e113.jpg\"/><img src=\"http://img12.360buyimg.com/cms/jfs/t16024/301/1915494940/96645/e7f89713/5a68826fNea594727.jpg\"/><img src=\"http://img12.360buyimg.com/cms/jfs/t14419/299/2068974081/244532/c5a88f54/5a68778bN639ca8e3.jpg\"/><img src=\"http://img11.360buyimg.com/cms/jfs/t16552/39/1873697876/211696/80bb170b/5a6878baN6e5088de.jpg\"/><img src=\"http://img30.360buyimg.com/cms/jfs/t16225/178/1923859840/144899/381de0e2/5a687c0cN6a2566f3.jpg\"/><img src=\"http://img14.360buyimg.com/cms/jfs/t18400/302/299312601/212235/b40d54c8/5a687cb0N72f3e335.jpg\"/><img src=\"http://img14.360buyimg.com/cms/jfs/t16159/164/1778611092/204241/d9896144/5a687ec6N742bd550.jpg\"/><img src=\"http://img30.360buyimg.com/cms/jfs/t14596/160/2080001208/273825/8ea8ec87/5a687efbN14d7e113.jpg\"/><img src=\"http://img12.360buyimg.com/cms/jfs/t19531/189/285415609/94663/44b0f20b/5a68837fNc3d26e37.jpg\"/><img src=\"http://img12.360buyimg.com/cms/jfs/t18343/269/283846785/125952/c92b27f1/5a68837fN2bc7e4dd.jpg\" width=\"750\" height=\"1928\" alt=\"\"/>&nbsp; &nbsp;&nbsp;</p><p><img src=\"https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goodsimage_edit_img/aeb6d0917c0e46ad8fa9e3816500d01a.jpg\" title=\"消费告知0830.jpg\" alt=\"消费告知0830.jpg\"/></p>"
+				},
+				"goodsImages": [
+					{
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/dcefc30036b547c5baa362bf1989cf2f.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}, {
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/f85cb5976c33439094e355d6526a4e23.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}
+				],
+				"wzGoodsSpec": {
+					"skuId": 4675696,
+					"saleState": 1,
+					"is7ToReturn": 1,
+					"isAreaRestrict": null,
+					"stockStateId": null,
+					"serviceList": null,
+					"id": "b6a557483b8a42a1808beb3f4b337e1e",
+					"spec": "32G WLAN版",
+					"price": "2288.00",
+					"jdPrice": 2688.0,
+					"status": 0
+				},
+				"userAddress": null,
+				"userAllLimit": null,
+				"orderTimeout": null,
+				"maxPrice": 3399.00,
+				"minPrice": 2288.00,
+				"collectStatus": 2
+			}
+		}
+	}, {
+		"1a5636a929c145bca5056afdfc2b8fb7": {
+			"code": 1000000,
+			"msg": "成功",
+			"data": {
+				"goodsId": "1a5636a929c145bca5056afdfc2b8fb7",
+				"goodsTitle": "欧莱雅LOREAL 男士水能保湿护肤套装",
+				"subTitle": "净爽型男，活力全开，持续滋润保湿，减少水分流失，卓越的功效，男人也需要呵护自己",
+				"des": {
+					"code": 1000000,
+					"msg": "成功",
+					"data": "<p><img src=\"https://img30.360buyimg.com/sku/jfs/t1/590/30/948/192197/5b9244b7E74ab40c2/e01b1ca9c2c52752.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t1/4076/39/716/151115/5b9244b6Efd1308b7/ce6a8337b008dd4e.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t1/2249/12/732/303812/5b9244b7Ea986f8b1/aac685cc27e22f56.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t1/4573/6/712/254422/5b9244b6Ecdcc6e90/fb014ebf68dcff5e.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t1/2337/8/692/194750/5b9244b6E9da75199/891088c0e1667862.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t1/4756/9/678/146492/5b9244b5E0a624d9a/9dfbbd781657a22b.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t25129/260/1255463588/212128/50e282dd/5b8f7589N5aef9fde.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t27583/34/193055166/110904/b784ac21/5b8927c6N0557d3d5.jpg\"/><img src=\"https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goodsimage_edit_img/e99d05d65a6e4037ae94db53ffbf2923.png\" title=\"image.png\" alt=\"image.png\"/></p>"
+				},
+				"goodsImages": [
+					{
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/c89b2f73caeb41878b59204ceea27bab.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}, {
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/c4702bd3d17c4659acac36f7fabf7f6d.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}, {
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/b49acc495ec44affa86c313fbf15f234.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}, {
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/68d10b9209584b379949e84df65aaf9b.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}
+				],
+				"wzGoodsSpec": {
+					"skuId": 3801211,
+					"saleState": 1,
+					"is7ToReturn": 1,
+					"isAreaRestrict": null,
+					"stockStateId": null,
+					"serviceList": null,
+					"id": "1c09a91856254ae1b99fc15888b10b7b",
+					"spec": "保湿两步【洁面+乳液】",
+					"price": "136.22",
+					"jdPrice": 139.0,
+					"status": 0
+				},
+				"userAddress": null,
+				"userAllLimit": null,
+				"orderTimeout": null,
+				"maxPrice": 136.22,
+				"minPrice": 107.91,
+				"collectStatus": 2
+			}
+		}
+	}, {
+		"b4417afc6736475798edab1db0ef1237": {
+			"code": 1000000,
+			"msg": "成功",
+			"data": {
+				"goodsId": "b4417afc6736475798edab1db0ef1237",
+				"goodsTitle": "苏泊尔家用多功能电炒锅电热锅7.5L大容量",
+				"subTitle": "1850W大火力，7.5L大容量，可供5-10人使用，煎炒煮炖焖涮炸，一锅多用！不沾涂层，轻油少烟更健康！",
+				"des": {
+					"code": 1000000,
+					"msg": "成功",
+					"data": "<a class=\"ssd-widget-link\"></a> &nbsp; &nbsp;<img src=\"https://img30.360buyimg.com/sku/jfs/t25612/64/2682887610/369270/d104e479/5bed706cN3aa37cdb.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t29806/234/283205045/289396/7c0998e8/5bed706cN9b404cdc.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t26350/308/1787436183/71879/9a08f07/5bed7163N1ea44e82.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t30430/355/264771801/102777/858c943/5bed7170N8edbd382.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t29113/322/264102967/167764/a9e6b638/5bed706cN7b4252c3.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t29116/323/271381715/203533/481f98bd/5bed706cN94cd9f56.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t29428/80/358242047/385658/385ab9e5/5bf0d915Na1145d66.gif\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t27784/22/1807270220/336990/a72c88/5bed6cedN02f2bfa8.gif\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t28555/257/260014810/226687/97df0d76/5bed6cedNdfad79bd.gif\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t30460/116/259694174/246028/cd3b70be/5bed706cNe43efdc5.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t28330/338/274178816/259480/a641ca92/5bed706cNd5445d8c.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t28699/6/281839173/83243/42efe9c9/5bed706cNd2fa61f6.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t26164/18/1763820203/171462/a2424025/5bed706cN14212c1d.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t26968/354/1792196881/409472/964c8bf8/5bed71e2N2ea88664.gif\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t29689/308/263493600/400677/90c0c6e1/5bed706cNd1d6ad8e.jpg\"/><img src=\"https://img10.360buyimg.com/imgzone/jfs/t29812/203/444893323/197493/328e5233/5bf3dc87N419b8d53.jpg\"/><img src=\"https://img10.360buyimg.com/imgzone/jfs/t30097/327/437476237/296730/af943e2f/5bf3dc88Nf96f416d.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t25321/148/2679043763/395159/c9212bb1/5bed6da1N265c498f.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t30034/207/260456330/119431/7482057b/5bed706cNf1d39093.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t25063/17/2679949663/163661/6d08edd1/5bed706dNcdc3dec5.jpg\"/><img src=\"https://img30.360buyimg.com/sku/jfs/t25381/18/2715311948/156094/a70be220/5bed706dNee4c7c76.jpg\"/><img src=\"https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goodsimage_edit_img/a97de245c82248b4ae701ac78ec01602.jpg\" title=\"消费告知0830.jpg\" alt=\"消费告知0830.jpg\"/></p><a class=\"ssd-widget-link\"></a> &nbsp; &nbsp;</p><!-- 2018-11-23 03:28:01 -->"
+				},
+				"goodsImages": [
+					{
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/8f1b0d5592cb452aa4126c0e91c94000.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}, {
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/f4e4beeef1a34ad1a4537d30f36ccc11.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}, {
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/970936477e754a39a11778a209118b02.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}, {
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/600e6d8def474269aa022bcf4fb3a2a3.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}, {
+						"id": null,
+						"goodsId": null,
+						"imageUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/17fb3f94c1a54c31acdcc54df11b71aa.png",
+						"imageType": null,
+						"priority": null,
+						"gmtCreate": null,
+						"gmtModify": null
+					}
+				],
+				"wzGoodsSpec": {
+					"skuId": 5223625,
+					"saleState": 1,
+					"is7ToReturn": 1,
+					"isAreaRestrict": null,
+					"stockStateId": null,
+					"serviceList": null,
+					"id": "e955d17df50c41978623eaffc644c7db",
+					"spec": "7.5L大容量",
+					"price": "209.00",
+					"jdPrice": 219.0,
+					"status": 0
+				},
+				"userAddress": null,
+				"userAllLimit": null,
+				"orderTimeout": null,
+				"maxPrice": 209.00,
+				"minPrice": 209.00,
+				"collectStatus": 2
+			}
+		}
+	}
+]

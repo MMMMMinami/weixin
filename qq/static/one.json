@@ -1,0 +1,246 @@
+{
+	"code": 1000000,
+	"msg": "成功",
+	"data": [
+		{
+			"type": 0,
+			"specialInfo": {
+				"id": "4101142ccb984f81b955c88663caf6e8",
+				"title": "新品区",
+				"type": 0,
+				"priority": 1,
+				"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/Special/b6ba1894ee004517bac0303000b9e8b2.jpg",
+				"status": 1,
+				"port": "1,2",
+				"jumpType": 0,
+				"jumpPage": 2,
+				"httpUrl": "",
+				"parameter": "",
+				"goodsListId": "M_0001",
+				"needLogin": null
+			},
+			"goodsList": [
+				{
+					"id": "69a3693ec7774b92b8bca616fc60cfe5",
+					"goodsTitle": "富光荣耀系列不锈钢真空带滤网保温杯",
+					"shortTitle": "富光保温杯",
+					"subTitle": null,
+					"price": 69.00,
+					"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/ee3a056e41ba4b1aa9d387f9db4af495.png",
+					"tag": null,
+					"recommend": null,
+					"classifyType": null,
+					"status": null
+				}, {
+					"id": "1846675a04d24ac99fe2ca704946dd63",
+					"goodsTitle": "李施德林（Listerine）牙龈护理便携漱口水",
+					"shortTitle": "便携漱口水",
+					"subTitle": null,
+					"price": 65.90,
+					"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/35ac3d91929f482a81b379e9d09e28ac.png",
+					"tag": null,
+					"recommend": null,
+					"classifyType": null,
+					"status": null
+				}, {
+					"id": "d0cd31ff095148fb8b50ef86c9ffd447",
+					"goodsTitle": "清扬(CLEAR)洗发水 男士去屑洗发露(3款)",
+					"shortTitle": "清扬洗发露",
+					"subTitle": null,
+					"price": 36.90,
+					"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/44404f8609b74dd58bc5d67b79223ceb.png",
+					"tag": null,
+					"recommend": null,
+					"classifyType": null,
+					"status": null
+				}, {
+					"id": "8a08e0eaa54941b78bd72831abd7331f",
+					"goodsTitle": "美厨（maxcook）保温壶 304不锈钢",
+					"shortTitle": "美厨不锈钢保温壶",
+					"subTitle": null,
+					"price": 68.00,
+					"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/2153a1d22cd147f0b358ae690ccc6cc1.png",
+					"tag": null,
+					"recommend": null,
+					"classifyType": null,
+					"status": null
+				}
+			],
+			"bannerList": [
+				{
+					"id": "4101142ccb984f81b955c88663caf6e8",
+					"type": 0,
+					"priority": 1,
+					"jumpType": 0,
+					"jumpPage": 2,
+					"bannerImgUrl": "",
+					"httpUrl": "",
+					"parameter": ""
+				}
+			]
+		}, {
+			"type": 1,
+			"specialInfo": {
+				"id": "6419ce9d56b74d9ea19ee2ec131ec216",
+				"title": "折扣区",
+				"type": 1,
+				"priority": 2,
+				"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/Special/661070f353d040f4b3cca092f84fcc49.jpg",
+				"status": 1,
+				"port": "1,2",
+				"jumpType": 0,
+				"jumpPage": 2,
+				"httpUrl": "",
+				"parameter": "",
+				"goodsListId": "M_0002",
+				"needLogin": null
+			},
+			"goodsList": [
+				{
+					"id": "56fc63e3f7bd4deab010132ab76ed423",
+					"goodsTitle": "海飞丝洗发水去屑丝源复活组合530ml",
+					"shortTitle": "海飞丝洗发水",
+					"subTitle": null,
+					"price": 74.00,
+					"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/a34f7caea51947bcbee34c89cba7f5ea.png",
+					"tag": null,
+					"recommend": null,
+					"classifyType": null,
+					"status": null
+				}, {
+					"id": "a12e8c791bef49d7bf7bda59b5efb0ff",
+					"goodsTitle": "力士(LUX)滋养沐浴露400g",
+					"shortTitle": "力士沐浴露",
+					"subTitle": null,
+					"price": 19.59,
+					"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/a1bc2cb5d0ea44c9b0b5c744617d81f8.png",
+					"tag": null,
+					"recommend": null,
+					"classifyType": null,
+					"status": null
+				}, {
+					"id": "1428d6be93dd4f4d80a7928b8da89e8f",
+					"goodsTitle": "金龙鱼 五常大米稻花香米原香稻大米2.5kg",
+					"shortTitle": "金龙鱼五常大米2.5kg",
+					"subTitle": null,
+					"price": 35.90,
+					"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/eb0e065562d44155aba87035a4507996.png",
+					"tag": null,
+					"recommend": null,
+					"classifyType": null,
+					"status": null
+				}, {
+					"id": "ba5979e258494d79bec05eae157e8c6d",
+					"goodsTitle": "威露士（Walch） 衣物家居消毒液 3L",
+					"shortTitle": "威露士消毒液",
+					"subTitle": null,
+					"price": 72.00,
+					"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/1d77ef8e5e4e4a1580dc4cfe4b003a5b.png",
+					"tag": null,
+					"recommend": null,
+					"classifyType": null,
+					"status": null
+				}, {
+					"id": "b33504b450c841cca3ad4f13bfc9255e",
+					"goodsTitle": "茶花34L整理收纳箱斜口翻盖储物箱3支装",
+					"shortTitle": "茶花34L储物箱",
+					"subTitle": null,
+					"price": 204.80,
+					"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/09e1290e57d3413bb993573f19f63bac.png",
+					"tag": null,
+					"recommend": null,
+					"classifyType": null,
+					"status": null
+				}, {
+					"id": "b5a66579db3e4d3182cde851172978a8",
+					"goodsTitle": "维达卷纸 蓝色经典3层140g卫生纸巾*10卷",
+					"shortTitle": "维达卷纸10卷",
+					"subTitle": null,
+					"price": 25.90,
+					"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/cf977d8eb54042848251fc2290a69664.png",
+					"tag": null,
+					"recommend": null,
+					"classifyType": null,
+					"status": null
+				}
+			],
+			"bannerList": [
+				{
+					"id": "6419ce9d56b74d9ea19ee2ec131ec216",
+					"type": 1,
+					"priority": 2,
+					"jumpType": 0,
+					"jumpPage": 2,
+					"bannerImgUrl": "",
+					"httpUrl": "",
+					"parameter": ""
+				}
+			]
+		}, {
+			"type": 1,
+			"specialInfo": {
+				"id": "d882b1608788465db3b9cefbf44039b0",
+				"title": "潮品区",
+				"type": 1,
+				"priority": 3,
+				"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/Special/9d23507520054dd7843e58060c9a9848.jpg",
+				"status": 1,
+				"port": "1,2",
+				"jumpType": 0,
+				"jumpPage": 2,
+				"httpUrl": "https://h5.91jsgo.com/h5/h5Page/house.html?h5PageTypeCode=59&goodsListId=M_0019",
+				"parameter": "",
+				"goodsListId": "M_0003",
+				"needLogin": null
+			},
+			"goodsList": [
+				{
+					"id": "67f3ec132ded4bb98412d698b83dc425",
+					"goodsTitle": "力可美 马来西亚进口燕窝燕盏 30克",
+					"shortTitle": "进口燕窝燕盏",
+					"subTitle": null,
+					"price": 989.00,
+					"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/76322ba6a8c34bb485657dce8005784c.png",
+					"tag": null,
+					"recommend": null,
+					"classifyType": null,
+					"status": null
+				}, {
+					"id": "cac6a535b5f94201ad872eb344277d36",
+					"goodsTitle": "周大福 别致车花黄金手链16.25cm约5.2克",
+					"shortTitle": "周大福黄金手链",
+					"subTitle": null,
+					"price": 1952.00,
+					"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/737c8d0a5a5c4f1d91b7f1922e197b92.png",
+					"tag": null,
+					"recommend": null,
+					"classifyType": null,
+					"status": null
+				}, {
+					"id": "2ec2e4138e5c4f95a1c6e2fdb01a8f95",
+					"goodsTitle": "JBL 低音炮音乐金砖蓝牙迷你音箱",
+					"shortTitle": "JBL蓝牙音箱",
+					"subTitle": null,
+					"price": 259.00,
+					"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/87373fdc68a54901ad49c16ea5c0c9d9.png",
+					"tag": null,
+					"recommend": null,
+					"classifyType": null,
+					"status": null
+				}
+			],
+			"bannerList": [
+				{
+					"id": "d882b1608788465db3b9cefbf44039b0",
+					"type": 1,
+					"priority": 3,
+					"jumpType": 0,
+					"jumpPage": 2,
+					"bannerImgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/Special/48e82de4ac0b434b8b0c7d4541fe6061.png",
+					"httpUrl": "https://h5.91jsgo.com/h5/h5Page/house.html?h5PageTypeCode=59&goodsListId=M_0019",
+					"parameter": ""
+				}
+			]
+		}
+	]
+}

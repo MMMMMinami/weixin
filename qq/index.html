@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>极速购</title>
+    <link rel="stylesheet" type="text/css" href="static/index.css"/>
+  </head>
+  <body>
+  
+  	
+   <div id="app">
+   	 <!--脚步组件-->
+   		<nav-com></nav-com>
+	   			<transition :enter-active-class="transitionName" >
+	   				<!--keep-alive 缓存组件-->
+	   					<keep-alive>
+	   								<router-view :mmm="transitionName"  v-if="$route.meta.keep_alive"  />
+	   					</keep-alive>
+	   			</transition>
+   			<!--不需要缓存的组件-->
+   					<transition :enter-active-class="transitionName" >
+   							<router-view :mmm="transitionName" v-if="!$route.meta.keep_alive" />
+   					</transition>
+   		
+   </div>
+  
+  </body>
+  <script type="text/javascript">
+  	
+  </script>
+  
+</html>

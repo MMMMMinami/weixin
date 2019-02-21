@@ -1,0 +1,103 @@
+{
+	"code": 1000000,
+	"msg": "成功",
+	"data": {
+		"type": 3,
+		"specialInfo": {
+			"id": "94e9c28d017b44d289e6f13f64f16ba2",
+			"title": "猜你喜欢",
+			"type": 3,
+			"priority": 4,
+			"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/Special/7c35474ae5324a06b2e0d99f9bf0ab66.jpg",
+			"status": 1,
+			"port": "1,2",
+			"jumpType": 0,
+			"jumpPage": 2,
+			"httpUrl": "",
+			"parameter": "",
+			"goodsListId": "M_0004",
+			"needLogin": null
+		},
+		"goodsList": [
+			{
+				"id": "208f943ed2f04ebea72355fe96e9065d",
+				"goodsTitle": "农心辛拉面香菇牛肉味方便面整箱装",
+				"shortTitle": "农心辛拉面",
+				"subTitle": null,
+				"price": 79.00,
+				"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/13006245460747319670e53a25d70cdc.png",
+				"tag": null,
+				"recommend": null,
+				"classifyType": null,
+				"status": null
+			}, {
+				"id": "17a03470e9184727ac3b446531b8e54e",
+				"goodsTitle": "熟冻加拿大北极甜虾 2kg/盒 210-230只",
+				"shortTitle": "加拿大北极甜虾",
+				"subTitle": null,
+				"price": 179.00,
+				"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/a56a599d31be4cf7bb2d74571dfe74fd.png",
+				"tag": null,
+				"recommend": null,
+				"classifyType": null,
+				"status": null
+			}, {
+				"id": "3e3c4952c11949cb8770c0c663174828",
+				"goodsTitle": "福临门稻花香五常大米10kg 中粮出品",
+				"shortTitle": "福临门稻花香大米10kg",
+				"subTitle": null,
+				"price": 189.00,
+				"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/575a23b60d0640cba096e623a7df5ccd.png",
+				"tag": null,
+				"recommend": null,
+				"classifyType": null,
+				"status": null
+			}, {
+				"id": "b533581082394568b4f96b1fda140c90",
+				"goodsTitle": "美妙/Mimir 自助按摩足浴盆泡脚盆泡脚桶",
+				"shortTitle": "美妙足浴盆",
+				"subTitle": null,
+				"price": 199.00,
+				"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/43097392fd144a0fb0a450270fa3d3f7.png",
+				"tag": null,
+				"recommend": null,
+				"classifyType": null,
+				"status": null
+			}, {
+				"id": "c96e649c1da944faaed67a9f4fbeb9e6",
+				"goodsTitle": "海底捞 番茄火锅底料 200g",
+				"shortTitle": "海底捞番茄底料",
+				"subTitle": null,
+				"price": 19.00,
+				"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/fecc40b6ae3a4c38a743d46c91dadb7e.png",
+				"tag": null,
+				"recommend": null,
+				"classifyType": null,
+				"status": null
+			}, {
+				"id": "c143703596b448c993fc01e89479fc44",
+				"goodsTitle": "恒源祥薄款纯棉保暖内衣套装男/女秋裤",
+				"shortTitle": "恒源祥保暖内衣",
+				"subTitle": null,
+				"price": 78.00,
+				"imgUrl": "https://zhongyang-fws.oss-cn-hangzhou.aliyuncs.com/goods/127e7bb6e62d4caeb9ada339c61026e7.png",
+				"tag": null,
+				"recommend": null,
+				"classifyType": null,
+				"status": null
+			}
+		],
+		"bannerList": [
+			{
+				"id": "94e9c28d017b44d289e6f13f64f16ba2",
+				"type": 3,
+				"priority": 4,
+				"jumpType": 0,
+				"jumpPage": 2,
+				"bannerImgUrl": "",
+				"httpUrl": "",
+				"parameter": ""
+			}
+		]
+	}
+}
